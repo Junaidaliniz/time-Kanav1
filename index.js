@@ -10,8 +10,8 @@ const PORT = process.env.PORT || 3000;
 // ================ CONFIG ================
 const CONFIG = {
   baseUrl: "http://www.timesms.net",
-  username: "Junaidaliniz",
-  password: "Junaidaliniz",
+  username: "Kanav1",
+  password: "Kanav1",
   userAgent: "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 Chrome/144 Mobile"
 };
 
