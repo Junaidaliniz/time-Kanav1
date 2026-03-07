@@ -1,0 +1,14 @@
+{
+  "name": "timesms-api",
+  "version": "1.0.0",
+  "description": "timesms.net SMS Panel API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "zlib": "^1.0.5",
+    "querystring": "^0.2.1"
+  }
+}
